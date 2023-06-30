@@ -1,0 +1,34 @@
+1) Change unrealistic buildings to historical, era and tech appropriate alternatives. Some buildings just need a name change and reimagining of what it represents. e.g. Spa Resort is a modern concept, but Public Baths are appropriate for Classical era and Engineering tech, and can provide the same bonus.  Some buildings need their requisite tech adjusted, such as the Supermarket (Replaceable Parts --> Refrigeration). Others, like Cannery, need to be moved to another era entirely. Some adjustments to yields, bonuses, and requirements are in order to offer more interesting and realistic benefits with logical limitations. "Just build the 'thing' to get 2 happiness free forever" isn't interesting.
+
+Get new and better icons for buildings.  Icons should illustrate a single object or concept clearly related to the function, purpose, or benefit of the building. They should not be "busy" with multiple tiny images too small to distinguish (e.g. Bakery), depict something so large or complicated that when scaled down becomes near impossible to identify (e.g. Brick Works), and should whenever possible be universally recognized by players of any culture or language.
+
+Adjust building bonuses/requirements/stats to improve game balance and provice comparable benefits/maintenance/etc to core game buildings.
+
+Add new buildings.
+=============================================
+ANCIENT ERA
+NEW Brewery - Tech:Pottery. COST:60. ReqResource:Wheat,Sheep,Cattle. Yield:+1Happiness,+1Maintenance
+Smokery - Bigger icon.  Tech:Animal Husbandry-->Trapping.  ??Remove ReqBuilding:Slaughterhouse??
+Slaughterhouse - Bigger icon.
+Seaside Resort - No such thing in ancient era except for kings of kings.  Move to Modern Era (Tech:Combustion) or Atomic Era (Tech:Ecology)
+NEW Basket Weaver - Tech:Sailing. Cost:50. Yield:+1Food,+1Prod{Fish}{Crabs}{Citrus},+1Maintenance
+NEW Boat Builder - Tech:Sailing, Cost:75prod, ReqTerrain:Coast, Yield:+1 prod, +1 maintenance, +10% prod for ships, free work boat.
+Warehouse - Too expensive at Cost:200prod, +2Maintenance + ReqBuilding:Granary.
+    **Proposal** - Cost:100prod,ReqBuilding:Boat Builder. Yield:+2prod,+2food,+2Maintenance.
+Shipyard - Too expensive, Too many prereqs (ReqBuilding:Granary+Warehouse, ReqTerrain:River).  But historically naval industry was huge investment.  Yet here the bonus (+10% prod for ships) is low.
+    Proposal: Remove ReqBuilding:Granary from Warehouse, or reduce Cost:200-->100. If keeping ReqBuilding, change Granary-->Boat Builder(New).
+    Require river OR Adjacent forest/jungle for timber supply. ReqTech: Masonry (for dry docks. Diverging tech paths compensate for lower cost, higher benefit). Yield:-0-. Bonus:+15% prod to ship building, Free trireme upon completion.
+NEW Peddler's Fair - ReqTech:The Wheel. Cost:75. Yield:+1gold/3pop,+1Culture/3pop,+1happiness
+Bakery - New Icon (large bread loaf). ReqTech:Masonry. ReqBuilding:Granary. Specialist:Merchant. Yield:+2Food,+1Happiness,+1Gold{Wheat}{Banana}{Wine}{Salt}{Sugar}{Spices},+1Maintenance
+Brick Works - Icon:Change(looks like Eifel Tower...) ReqTech:Masonry-->Construction.
+
+
+CLASSICAL ERA
+Greenhouse - This has no business being this early.  Earliest probably in Industrial Era, near ReqTech:Biology, but not for city-wide effect.
+Propose move Greenhouse to Atomic Era with ReqTech:Ecology
+Propose substitute Greenhouse at ReqTech:Construction with NEW Wells.
+NEW Wells ReqTech:Construction. Yield:+2Food,+1Food{Desert}{Tundra},+2Maintenance
+Park - Why is it ReqTech:Horseback Riding? Should be Philosophy or Drama & Poetry. Or even Construction, Engineering, or Currency have logical plausibility. For this era I think I'd rather see a public "Plaza" with Yield:+1happiness,+1culture from a conceptual PoV. But +2Happiness is a lifesaver in games.
+Spa Resort - Rename:Public Baths. ReqTerrain:{Coast}or{Mountain}or++{River}. Yield:+2Happiness-->??+1Happiness/4pop??,+1Maintenance
+Icehouse - Cost:200 is more than a wonder (Colosus=185) and there's +1maintenance.  For +5%Food it's not worth it? Did ice play significant role in food preservation? Or was it more of a luxury? Should require mountain.
+Proposal - Icehouse Cost:100 ReqTerrain:Mountain<within 2 tiles>. Yield:+5%Food,+1Happiness,+1Happiness<if city in desert>,+1Maintenance.
