@@ -22,6 +22,18 @@
 	"requiredTech": "Masonry"
     },
     {
+        // NEW
+	"name": "Brewery",
+        "cost": 60,
+        // "food": 1,
+        "happiness": 1,
+	"maintenance": 1,
+	// "specialistSlots": {"Merchant": 1},
+        "requiredBuilding": "Granary",
+	"requiredNearbyImprovedResources": ["Honey","Wheat","Sheep","Cattle"],
+	"requiredTech": "Pottery"
+    },
+    {
         "name": "Brick Works",
         "cost": 100,
         "production": 2,
